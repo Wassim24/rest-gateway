@@ -27,6 +27,3 @@ Pour tester la passerelle REST:
 			- http://localhost:8080/rest/access/delete/{filename}
 
 		- L'upload de fichier se fait via le formulaire mis en place.
-
-Les tests unitaires ont étés faits, notamment :
-	- Pour les commandes principales demandées ( Échecs et Succés ).
