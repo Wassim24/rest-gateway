@@ -1,6 +1,9 @@
 Implémentation d'une passerelle REST.
 
 Pour tester la passerelle REST: 
+
+
+
 	1 - Se rendre dans le répertoire du TP, lancer la commande **java -jar serveurFTP.jar**.
 	2 - Lancer un navigateur WEB et accéder à l'adresse suivante : http://localhost:8080/rest/access/
 	3 - Ouvrir le projet et executer le main dans le fichier Starter.java	
